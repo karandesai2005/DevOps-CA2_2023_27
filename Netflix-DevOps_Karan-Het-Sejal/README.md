@@ -4,6 +4,7 @@
 
 | Name | PRN |
 |---|---|
+| Dakshit Singh | 24070122078 |
 | Karan Desai | 24070122503 |
 | Het Jasanii | 24070122504 |
 | Sejal More | 24070122509 |
